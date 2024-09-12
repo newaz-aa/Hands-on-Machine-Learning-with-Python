@@ -11,8 +11,7 @@ Hands-on Machine Learning with Scikit-Learn and TensorFlow
 ![scikit-learn](https://img.shields.io/pypi/v/scikit-learn?label=scikit-learn&color=blue)
 ![Imbalanced-learn](https://img.shields.io/pypi/v/imblearn?label=Imbalanced-learn&color=orange)
 ![TensorFlow](https://img.shields.io/pypi/v/tensorflow?label=TensorFlow&color=orange)
-
-
+![Scikit-Genetic](https://img.shields.io/pypi/v/sklearn-genetic?label=Scikit-Genetic&color=purple)
 
 ## Documentation
 
