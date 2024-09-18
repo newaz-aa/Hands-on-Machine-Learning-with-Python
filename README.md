@@ -1,7 +1,7 @@
 
 ## Course
 
-Hands-on Machine Learning with Scikit-Learn and TensorFlow
+Hands-on Machine Learning with Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![NumPy](https://img.shields.io/pypi/v/numpy?label=NumPy&color=yellow)
