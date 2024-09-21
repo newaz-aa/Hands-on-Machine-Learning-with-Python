@@ -15,7 +15,7 @@ Hands-on Machine Learning with Python
 
 ## Documentation
 
-[Course Outline](https://www.asifnewaz.com/teaching/hands-on-machine-learning)
+For details: https://www.asifnewaz.com/teaching/hands-on-ml-with-python
 
 
 
