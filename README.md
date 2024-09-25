@@ -41,7 +41,7 @@ The provided notebooks come with detailed instructions, and some labs are supple
 
 ## Recorded Lectures
 
-[![YouTube Icon](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLLUzBeNIe07HYeJTU0JOno5_3Bt4qj0Zo))
+[![YouTube Icon](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLLUzBeNIe07HYeJTU0JOno5_3Bt4qj0Zo)
 
 ## Notes
 
